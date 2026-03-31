@@ -30,7 +30,7 @@ def extract_images_from_pdf(pdf_path, output_folder):
     print(f"Total {image_count} images extracted.")
 
 # Usage
-pdf_file = "namjestaj.pdf" # Replace with your PDF file name
+pdf_file = "pdfs/namjestaj.pdf" # Replace with your PDF file name
 output_dir = "extracted_images"
 
 extract_images_from_pdf(pdf_file, output_dir)
