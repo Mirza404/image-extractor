@@ -1,5 +1,3 @@
-A tiny script that I needed for a task so i will let it live here peacefully.
-
 ## What it does
 
 Extracts all embedded images from a PDF file and saves them as individual PNG files. Comes with both a CLI script and a desktop GUI.
